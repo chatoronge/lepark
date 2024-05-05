@@ -91,11 +91,11 @@ CREATE TABLE `produits` (
 --
 
 INSERT INTO `produits` (`id`, `modele`, `prix`, `stock`, `reference`) VALUES
-(1, 'Nom du Skate 1', '59.99', 10, 'REF001'),
-(2, 'Nom du Skate 2', '69.99', 15, 'REF002'),
-(3, 'Nom du Skate 3', '79.99', 20, 'REF003'),
-(4, 'Nom du Skate 4', '89.99', 12, 'REF004'),
-(5, 'Nom du Skate 5', '99.99', 8, 'REF005');
+(1, 'Planche cool', '59.99', 10, 'REF001'),
+(2, 'Normale', '69.99', 15, 'REF002'),
+(3, 'Foot-Fetish', '79.99', 20, 'REF003'),
+(4, 'Herman Signature', '89.99', 12, 'REF004'),
+(5, 'L'aixoise ', '99.99', 8, 'REF005');
 
 -- --------------------------------------------------------
 
