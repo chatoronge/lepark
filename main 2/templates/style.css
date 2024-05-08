@@ -1,0 +1,7 @@
+/* Appliquer l'image de fond au corps entier */
+body {
+    background-image: url('/media/imagefond.jpg'); /* Remplacez 'chemin/vers/image.jpg' par le chemin d'accès à votre image */
+    background-size: cover; /* Ajuste l'image de fond pour couvrir tout l'écran */
+    background-repeat: no-repeat; /* Ne répétez pas l'image */
+    background-position: center; /* Centrez l'image de fond */
+}
